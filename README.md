@@ -1,17 +1,13 @@
 # EmpModel
-A detailed discussion and analaysis of the some correlated Eco models
-
-
+A detailed discussion and analysis of the Employee Model available in Board Resolution dated 29th September, 2026 and Minutes (28th Oct, 2026) of Medsolu OPC Pvt Ltd.
 
 The recently proposed employee model is one of the largest global economical model which can transform the monetary flow and cashflow system across the globe.
 
 Since this is going to impact the total money generation and flow globally, we can make an analysis of the model both locally within a Geographical region as well as within a Country and Globally.
 
-
-
 Key Questions :
 
-How many channels on an average can we imagine within each organisation for the new and old employees  ?
+(1) How many channels on an average can we imagine within each organisation for the new and old employees  ?
 
 (2) As automated model evolution, what would be the average growth rate in terms of the new and old employee recruitment inclusive of the churn rate of the employees ?
 
